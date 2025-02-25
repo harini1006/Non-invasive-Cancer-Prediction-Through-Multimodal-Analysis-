@@ -58,7 +58,9 @@ We welcome contributions! Fork the repo, submit your changes, and help advance A
 ## 🛠 Developers
 
 ### 👤Harini V 
+@hariniv
 ### 👤Shalini Venkatesan
+@shalini-venkatesan
 ### 👤Bharathraj B
 
 🚀 *Join us in the fight against cancer with AI-powered early detection!* 🎗️

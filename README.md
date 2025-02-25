@@ -58,7 +58,7 @@ We welcome contributions! Fork the repo, submit your changes, and help advance A
 
 ## 🛠 Developers
 
-### 👤Harini V https://www.linkedin.com/in/hariniv1006
+### 👤Harini V 
 ### 👤Shalini Venkatesan
 ### 👤Bharathraj B
 

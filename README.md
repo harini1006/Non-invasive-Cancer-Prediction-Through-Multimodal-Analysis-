@@ -56,10 +56,11 @@ This tool can be used in **hospitals, medical camps, and remote healthcare facil
 ## 🤝 Contributing
 We welcome contributions! Fork the repo, submit your changes, and help advance AI-driven cancer detection for a healthier future.  
 
-## Developers
-### Harini V
-### Shalini Venkatesan
-### Bharathraj B
+## 🛠 Developers
+
+### 👤Harini V
+### 👤Shalini Venkatesan
+###👤 Bharathraj B
 
 🚀 *Join us in the fight against cancer with AI-powered early detection!* 🎗️
 

@@ -60,7 +60,7 @@ We welcome contributions! Fork the repo, submit your changes, and help advance A
 
 ### 👤Harini V
 ### 👤Shalini Venkatesan
-###👤 Bharathraj B
+### 👤Bharathraj B
 
 🚀 *Join us in the fight against cancer with AI-powered early detection!* 🎗️
 

@@ -35,7 +35,6 @@ npm start
 ### 🔹 Model Deployment
 ```bash
 cd models
-# Upload trained PKL model to the cloud or local server
 ```
 
 ## 🎯 How to Use

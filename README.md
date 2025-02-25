@@ -46,6 +46,9 @@ cd models
 ## 🔗 API Endpoints
 🔹 `POST /predict`: Upload blood test & MRI scan → Get AI Diagnosis  
 🔹 `GET /status`: API health check  
+## Output
+![cancer prediction website](https://github.com/user-attachments/assets/2beb8d71-896c-4d3c-93a7-d8d7c20205d5)
+
 
 ## 🏥 Why This Matters
 **Cancer screening should be accessible, accurate, and non-invasive.** This project aims to bridge the gap between early detection and accessible healthcare by leveraging AI for rapid, reliable cancer screening. By analyzing both **biomarker-based blood test reports** and **MRI scans**, our system empowers medical professionals and individuals to take proactive steps in detecting and managing cancer early.
@@ -58,10 +61,7 @@ We welcome contributions! Fork the repo, submit your changes, and help advance A
 ## 🛠 Developers
 
 ### 👤Harini V 
-https://www.linkedin.com/in/hariniv1006
-
 ### 👤Shalini Venkatesan
-@shalini-venkatesan
 ### 👤Bharathraj B
 
 🚀 *Join us in the fight against cancer with AI-powered early detection!* 🎗️
